@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# Astro Starter and Tailwind
 
 ```sh
 npm create astro@latest -- --template basics
